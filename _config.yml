@@ -1,0 +1,28 @@
+name: JoBeth Eckerman - Shaman
+favicon: null
+layout_spectrum: 0.761945474660024
+typography_spectrum: 0.6494257589802146
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.1451678634621203
+  lightness: 0.35686909314244986
+  saturation: 0.17705246014520526
+  rhythmicContrast: 0.26875097560696304
+purpose: []
